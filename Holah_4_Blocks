@@ -1,0 +1,49 @@
+---
+id: KB-00-01-C2
+parent_doc: KB-00-01
+title: "Четыре базовых блока системы безопасности (Holah)"
+kb_section: 00_Контекст_Предприятия
+chunk_type: conceptual
+doc_type: knowledge_chunk
+domain:
+  - food_safety
+  - hygiene
+regulatory_refs:
+  - ISO_22000
+haccp_relevance: prerequisite
+risk_relevance: foundational
+applicability:
+  - food_manufacturing
+  - beverage_production
+tags:
+  - Holah
+  - hygienic_design
+  - GMP
+language: ru
+version: 1.0
+status: approved
+---
+
+## Суть чанка
+
+Система безопасности базируется на четырёх взаимосвязанных блоках: дизайн, практики, процессы и управление.
+
+---
+
+## Пояснение
+
+Holah выделяет гигиенический дизайн, гигиенические практики, разработку процессов и управление процессами как фундамент системы. Отсутствие любого блока снижает эффективность всей FSMS.
+
+---
+
+## Аудиторская интерпретация
+
+- Частое несоответствие: управление без валидации
+- Или: хорошие SOP при плохом дизайне
+
+---
+
+## Применимость на практике
+
+- Проверка соответствия инфраструктуры процессу
+- Связь PRP с HACCP
